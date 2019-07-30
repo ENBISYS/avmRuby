@@ -23,7 +23,7 @@ Gem::Specification.new do |s|
   s.email       = ["info@enbisys.com"]
   s.homepage    = "https://avm.enbisys.com"
   s.summary     = "AVM Ruby Gem"
-  s.description = "This is api for AVM (automated valuation machine)"
+  s.description = "This is api client library for AVM (automated valuation machine) - https://avm.enbisys.com"
   s.license     = "Unlicense"
   s.required_ruby_version = ">= 1.9"
 

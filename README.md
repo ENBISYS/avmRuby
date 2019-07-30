@@ -1,12 +1,14 @@
 # avm_client
 
-This is api client library for AVM (automated valuation machine) - https://avm.enbisys.com/
+This is api client library for AVM (automated valuation machine) - https://avm.enbisys.com
 
 Get instant and accurate Property Valuations and Predictive Analytics with our AI and Big Data tools. And make smart decisions faster
 
 ## Installation
 
+```
 gem install avm_client
+```
 
 ## Getting Started
 
@@ -83,12 +85,9 @@ Class | Method | HTTP request | Description
  - [AvmClient::WallType](docs/WallType.md)
  - [AvmClient::WindowGlazingType](docs/WindowGlazingType.md)
 
-
 ## Documentation for Authorization
 
-
 ### ApiKeyAuth
-
 
 - **Type**: API key
 - **API key parameter name**: X-API-KEY
