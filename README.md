@@ -1,4 +1,4 @@
-# avm_client
+# Ruby API client for AVM
 
 This is api client library for AVM (automated valuation machine) - https://avm.enbisys.com
 
